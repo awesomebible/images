@@ -12,3 +12,22 @@
 - das_schema.png: https://cdn.jsdelivr.net/gh/awesomebible/images/das_schema.png
 - genesis1-2.jpg: https://cdn.jsdelivr.net/gh/awesomebible/images/genesis1-2.jpg
 - jesaja-55_8.png: https://cdn.jsdelivr.net/gh/awesomebible/images/jesaja-55_8.png
+
+### Jetpack Photon CDN URLs
+- das_schema.png:
+ - [i0](i0.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
+ - [i1](i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
+ - [i2](i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
+ - [i3](i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
+ 
+ - jesaja-55_8.jpg:
+  - [i0](i0.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
+  - [i1](i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
+  - [i2](i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
+  - [i3](i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
+  
+ - genesis1-2.png:
+  - [i0](i0.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
+  - [i1](i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
+  - [i2](i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
+  - [i3](i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
