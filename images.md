@@ -31,3 +31,10 @@
   - ![i1](https://i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - ![i2](https://i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - ![i3](https://i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
+
+### Githubs CDN (camo.githubusercontent.com)
+- das_schema.png: ![das schema](https://camo.githubusercontent.com/478882572457212b56d457296fb2a8edc2cae816/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f617765736f6d656269626c652f696d616765732f61613630663135312f6461735f736368656d612e706e67)
+- genesis1-2.png:
+![genesis1-2](https://camo.githubusercontent.com/777aa23045425831b95305bf966e6f519360b883/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f617765736f6d656269626c652f696d616765732f61613630663135312f67656e65736973312d322e6a7067)
+- jesaja-55_8.jpg:
+![jesaja 55,8](https://camo.githubusercontent.com/521b350c24de714a6c508cb279379418551793cf/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f617765736f6d656269626c652f696d616765732f61613630663135312f6a6573616a612d35355f382e706e67)
