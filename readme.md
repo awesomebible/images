@@ -31,6 +31,12 @@
   - [i1](https://i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - [i2](https://i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - [i3](https://i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
+  
+## Cloudinary (1GB Storage and Transferring Quota)
+- das_schema: https://res.cloudinary.com/dw0kys5rv/image/upload/v1590943540/awesomeBible/das_schema_djrdor.png
+- genesis1-2: https://res.cloudinary.com/dw0kys5rv/image/upload/v1590943542/awesomeBible/genesis1-2_lw3a9r.jpg
+- jesaja_55-8: https://res.cloudinary.com/dw0kys5rv/image/upload/v1590943586/awesomeBible/jesaja-55_8_ifqwjq.png
+
 
 ### Githubs CDN (camo.githubusercontent.com)
 - das_schema.png: https://camo.githubusercontent.com/478882572457212b56d457296fb2a8edc2cae816/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f617765736f6d656269626c652f696d616765732f61613630663135312f6461735f736368656d612e706e67
