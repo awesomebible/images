@@ -10,9 +10,9 @@ i2= "https://i2.wp.com/"
 i3 = "https://i3.wp.com/"
 
 url0 = i0 + url + options
-url1 = i2 + url + options
-url2 = i3 + url + options
-url3 = i4 + url + options
+url1 = i1 + url + options
+url2 = i2 + url + options
+url3 = i3 + url + options
 
 print(url0)
 print(url1)
