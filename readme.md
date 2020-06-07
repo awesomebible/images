@@ -7,7 +7,7 @@
 - [das_schema.png: ](https://cdn.statically.io/gh/awesomebible/images/aa60f151/das_schema.png)
 - [genesis1-2.jpg: ](https://cdn.statically.io/gh/awesomebible/images/aa60f151/genesis1-2.jpg)
 - [jesaja-55_8.png: ](https://cdn.statically.io/gh/awesomebible/images/aa60f151/jesaja-55_8.png)
-- [light-sign-typography-lighting-519.jpg](https://cdn.statically.io/gh/awesomebible/images/ed0822b0/light-sign-typography-lighting-519.jpg)
+- [light-sign-typography-lighting-519.jpg](https://cdn.statically.io/gh/awesomebible/images/ed0822b0/light-sign-typography-lighting-519.jpg) [DEAD]
 - [grape-fruits-708777.jpg](https://cdn.statically.io/gh/awesomebible/images/ed0822b0/grape-fruits-708777.jpg)
 
 ### [jsdelivr](https://jsdelivr.com) URLs
