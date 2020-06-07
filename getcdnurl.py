@@ -16,6 +16,8 @@ url1 = i1 + url + options
 url2 = i2 + url + options
 url3 = i3 + url + options
 
+print(url)
+
 print(url0)
 print(url1)
 print(url2)
