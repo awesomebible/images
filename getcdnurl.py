@@ -1,7 +1,9 @@
 #!/usr/python
+import sys
 
 # URL without the protocol. (HTTP/HTTPS)
-url = ""
+args = str(sys.argv)
+url = args[1]
 options = "?ssl=1"
 
 i0 = "https://i0.wp.com/"
