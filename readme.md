@@ -14,25 +14,35 @@
 - jesaja-55_8.png: https://cdn.jsdelivr.net/gh/awesomebible/images/jesaja-55_8.png
 
 ### [Jetpack Photon](https://jetpack.com) CDN URLs
-- das_schema.png:
+- das_schema.png: https://awesomebible.de/2020/wem-gehoerst-du/
  - [i0](https://i0.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
  - [i1](https://i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
  - [i2](https://i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
  - [i3](https://i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/das_schema.png?ssl=1)
  
- - jesaja-55_8.jpg:
+ - jesaja-55_8.jpg: https://awesomebible.de/2019/routinen-neuanfange/
   - [i0](https://i0.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
   - [i1](https://i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
   - [i2](https://i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
   - [i3](https://i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png?ssl=1)
   
- - genesis1-2.png:
+ - genesis1-2.png: https://awesomebible.de/2019/gott-und-herr/
   - [i0](https://i0.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - [i1](https://i1.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - [i2](https://i2.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
   - [i3](https://i3.wp.com/raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg?ssl=1)
 
-### Githubs CDN (camo.githubusercontent.com)
+### Github: raw.githubusercontent.com
+- das_schema.png: https://awesomebible.de/2020/wem-gehoerst-du/
+ - [https://raw.githubusercontent.com/awesomebible/images/master/das_schema.png](https://raw.githubusercontent.com/awesomebible/images/master/das_schema.png)
+ 
+ - jesaja-55_8.jpg: https://awesomebible.de/2019/routinen-neuanfange/
+  - [https://raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png](https://raw.githubusercontent.com/awesomebible/images/master/jesaja-55_8.png)
+
+ - genesis1-2.png: https://awesomebible.de/2019/gott-und-herr/
+  - [https://raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg](https://raw.githubusercontent.com/awesomebible/images/master/genesis1-2.jpg)
+
+### Githubs CDN - Cached (camo.githubusercontent.com)
 - das_schema.png: https://camo.githubusercontent.com/478882572457212b56d457296fb2a8edc2cae816/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f617765736f6d656269626c652f696d616765732f61613630663135312f6461735f736368656d612e706e67
 - genesis1-2.png:
 https://camo.githubusercontent.com/777aa23045425831b95305bf966e6f519360b883/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f617765736f6d656269626c652f696d616765732f61613630663135312f67656e65736973312d322e6a7067
