@@ -1,9 +1,9 @@
 #!/usr/python
 import sys
 
-# URL without the protocol. (HTTP/HTTPS)
-args = str(sys.argv)
-url = args[1]
+url = sys.argv
+url = url[1]
+
 options = "?ssl=1"
 
 i0 = "https://i0.wp.com/"
@@ -15,8 +15,6 @@ url0 = i0 + url + options
 url1 = i1 + url + options
 url2 = i2 + url + options
 url3 = i3 + url + options
-
-print(url)
 
 print(url0)
 print(url1)
