@@ -111,3 +111,6 @@
 - [jesaja-55_8.png: ](https://cdn.jsdelivr.net/gh/awesomebible/images/jesaja-55_8.png)
 - [light-sign-typography-lighting-519.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/light-sign-typography-lighting-519.jpg)
 - [grape-fruits-708777.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/grape-fruits-708777.jpg)
+
+### Attributions
+You can find the Authors of the images [here](attributions.md)
