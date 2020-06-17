@@ -85,5 +85,6 @@
 - [grape-fruits-708777.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/grape-fruits-708777.jpg)
 - [Northern_Lights-2267.mp4](https://cdn.jsdelivr.net/gh/awesomebible/images/Northern_Lights-2267.mp4)
 - [Clouds-3723.mp4](https://cdn.jsdelivr.net/gh/awesomebible/images/Clouds-3723.mp4)
+- [Book_Video-2268807.mp4](https://cdn.jsdelivr.net/gh/awesomebible/images/Book_Video-2268807.mp4)
 ### Attributions
 You can find the Authors of the images [here](attributions.md)
