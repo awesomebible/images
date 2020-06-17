@@ -76,6 +76,15 @@
   - [i1](https://i1.wp.com/gitlab.com/awesomebible/awesomebibleimages/-/raw/master/hannah-busing-Zyx1bK9mqmA-unsplash.jpg?ssl=1)
   - [i2](https://i2.wp.com/gitlab.com/awesomebible/awesomebibleimages/-/raw/master/hannah-busing-Zyx1bK9mqmA-unsplash.jpg?ssl=1)
   - [i3](https://i3.wp.com/gitlab.com/awesomebible/awesomebibleimages/-/raw/master/hannah-busing-Zyx1bK9mqmA-unsplash.jpg?ssl=1)
+  
+### [jsdelivr](https://jsdelivr.com) URLs
+- [das_schema.png: ](https://cdn.jsdelivr.net/gh/awesomebible/images/das_schema.png)
+- [genesis1-2.jpg: ](https://cdn.jsdelivr.net/gh/awesomebible/images/genesis1-2.jpg)
+- [jesaja-55_8.png: ](https://cdn.jsdelivr.net/gh/awesomebible/images/jesaja-55_8.png)
+- [light-sign-typography-lighting-519.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/light-sign-typography-lighting-519.jpg)
+- [grape-fruits-708777.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/grape-fruits-708777.jpg)
+- [Northern_Lights-2267.mp4](https://cdn.jsdelivr.net/gh/awesomebible/images/Northern_Lights-2267.mp4)
+  
 ### Github: raw.githubusercontent.com
 - das_schema.png: https://awesomebible.de/2020/wem-gehoerst-du/
  - [https://raw.githubusercontent.com/awesomebible/images/master/das_schema.png](https://raw.githubusercontent.com/awesomebible/images/master/das_schema.png)
@@ -113,12 +122,6 @@
  
 - hannah-busing-Zyx1bK9mqmA-unsplash.jpg: https://awesomebible.de/2020/zusammen/
   - [gitlab.com/awesomebible/awesomebibleimages/-/raw/master/hannah-busing-Zyx1bK9mqmA-unsplash.jpg](gitlab.com/awesomebible/awesomebibleimages/-/raw/master/hannah-busing-Zyx1bK9mqmA-unsplash.jpg)
-### [jsdelivr](https://jsdelivr.com) URLs
-- [das_schema.png: ](https://cdn.jsdelivr.net/gh/awesomebible/images/das_schema.png)
-- [genesis1-2.jpg: ](https://cdn.jsdelivr.net/gh/awesomebible/images/genesis1-2.jpg)
-- [jesaja-55_8.png: ](https://cdn.jsdelivr.net/gh/awesomebible/images/jesaja-55_8.png)
-- [light-sign-typography-lighting-519.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/light-sign-typography-lighting-519.jpg)
-- [grape-fruits-708777.jpg](https://cdn.jsdelivr.net/gh/awesomebible/images/grape-fruits-708777.jpg)
 
 ### Attributions
 You can find the Authors of the images [here](attributions.md)
