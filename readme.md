@@ -1,4 +1,4 @@
-# images
+# images - Umgezogen zu [Codeberg](https://codeberg.org/awesomebible/images)
 ## [awesomebible.de](https://awesomebible.de) Images hosted by CDNs
   
 ### [jsdelivr](https://jsdelivr.com) URLs
